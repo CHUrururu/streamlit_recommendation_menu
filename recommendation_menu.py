@@ -63,6 +63,11 @@ stores_10k = {
         "cat": "중식",
         "url": "https://map.naver.com/p/entry/place/1025641913?lng=126.9551296&lat=37.4796145&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202601180313&locale=ko&svcName=map_pcv5&entry=plt&searchType=place&c=15.00,0,0,0,dh",
     },
+    "그릴하우스": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20250929_196%2F1759126747669cs7Ws_JPEG%2F%25BD%25A1%25BA%25D2%25BE%25E7%25B3%25E4%25B1%25B8%25C0%25CC2.jpg",
+        "cat": "한식",
+        "url": "https://map.naver.com/p/entry/place/1928441811?lng=126.9561448&lat=37.4783792&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202601180330&locale=ko&svcName=map_pcv5&entry=plt&searchType=place&c=15.00,0,0,0,dh",
+    },
 }
 
 # 20,000원
@@ -140,7 +145,7 @@ def show_recommendation(store_dict, title):
         for i, name in enumerate(picks):
             with cols[i]:
                 st.info(f"**{i+1}: {name}**")
-                st.write(f"분류: {store_dict[name]['cat']}")
+                st.write(f"{store_dict[name]['cat']}")
                 st.image(store_dict[name]['img'], use_column_width=True)
                 
                 target_url = store_dict[name]['url']
