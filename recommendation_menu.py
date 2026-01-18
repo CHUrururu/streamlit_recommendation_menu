@@ -54,12 +54,12 @@ stores_10k = {
         "url": "https://map.naver.com/p/entry/place/1784547468?lng=126.9509012&lat=37.4804168&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202601180305&locale=ko&svcName=map_pcv5&entry=plt&searchType=place&c=15.00,0,0,0,dh",
     },
     "뜸들이다": {
-        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200926_173%2F1601073979588ER769_JPEG%2FakuH1ku0-lrZrk0Vh4XUZwve.jpeg.jpg",
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200926_173%2F1601073979588ER769_JPEG%2FakuH1ku0-lrZrk0Vh4XUZwve.jpeg.jpg", # 가게 사진
         "cat": "덮밥",
         "url": "https://map.naver.com/p/entry/place/1221670362?lng=126.9512359&lat=37.4802634&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202601180306&locale=ko&svcName=map_pcv5&entry=plt&searchType=place&c=15.00,0,0,0,dh",
     },
     "충칭마라훠궈": {
-        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241220_221%2F1734692184018clwKk_JPEG%2Fimage.jpg",
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241220_221%2F1734692184018clwKk_JPEG%2Fimage.jpg", # 메뉴 사진
         "cat": "중식",
         "url": "https://map.naver.com/p/entry/place/1025641913?lng=126.9551296&lat=37.4796145&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202601180313&locale=ko&svcName=map_pcv5&entry=plt&searchType=place&c=15.00,0,0,0,dh",
     },
@@ -79,7 +79,7 @@ stores_10k = {
         "url": "https://map.naver.com/p/entry/place/1805570237?lng=126.9573891&lat=37.4778213&placePath=%2Fhome&entry=plt&searchType=place&c=15.00,0,0,0,dh",
     },
     "밥한끼": {
-        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200622_27%2F1592825501669vngWY_JPEG%2FebpTj_qE7AohLIFQGp_oeFzk.jpg",
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200622_27%2F1592825501669vngWY_JPEG%2FebpTj_qE7AohLIFQGp_oeFzk.jpg", # 가게 사진
         "cat": "한식",
         "url": "https://map.naver.com/p/entry/place/1816360299?lng=126.9530669&lat=37.4780739&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202601181739&locale=ko&svcName=map_pcv5&entry=plt&searchType=place&c=15.00,0,0,0,dh",
     },
@@ -248,7 +248,7 @@ stores_20k = {
         "url": "https://map.naver.com/p/entry/place/38460514?lng=126.9565657&lat=37.4784518&placePath=%2Fhome&entry=plt&searchType=place&c=15.00,0,0,0,dh",
     },
     "외래향": {
-        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191202_287%2F1575267243159QEHT0_JPEG%2FkFkFdVXXbFhJWHAM7uVAFtoF.jpg",
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191202_287%2F1575267243159QEHT0_JPEG%2FkFkFdVXXbFhJWHAM7uVAFtoF.jpg", # 가게 사진
         "cat": "중식",
         "url": "https://map.naver.com/p/entry/place/37770452?lng=126.9504933&lat=37.4817454&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202601180220&locale=ko&svcName=map_pcv5&entry=plt&searchType=place&c=15.00,0,0,0,dh",
     },
@@ -258,7 +258,7 @@ stores_20k = {
         "url": "https://map.naver.com/p/entry/place/1202495197?lng=126.9459889&lat=37.4808849&placePath=%2Fhome&entry=plt&searchType=place",
     },
     "춘원쌈밥": {
-        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190704_91%2F1562240166016GQLot_JPEG%2FcCtoM9loQNHXA6hCdWRC84HM.jpg",
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190704_91%2F1562240166016GQLot_JPEG%2FcCtoM9loQNHXA6hCdWRC84HM.jpg", # 가게 사진
         "cat": "한식",
         "url": "https://map.naver.com/p/entry/place/913189557?lng=126.9552125&lat=37.483625&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202601180303&locale=ko&svcName=map_pcv5&entry=plt&searchType=place&c=15.00,0,0,0,dh",
     },
@@ -278,7 +278,7 @@ stores_20k = {
         "url": "https://map.naver.com/p/entry/place/1122579123?lng=126.9541688&lat=37.4803934&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202601180309&locale=ko&svcName=map_pcv5&entry=plt&searchType=place&c=15.00,0,0,0,dh",
     },
     "등촌샤브칼국수": {
-        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_274%2F1733468985227xUcKW_JPEG%2F1000026567.jpg",
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_274%2F1733468985227xUcKW_JPEG%2F1000026567.jpg", # 메뉴 사진
         "cat": "샤브샤브",
         "url": "https://map.naver.com/p/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%93%B1%EC%B4%8C%EC%83%A4%EB%B8%8C%EC%B9%BC%EA%B5%AD%EC%88%98/place/1034986125?placePath=/home?bk_query=%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%93%B1%EC%B4%8C%EC%83%A4%EB%B8%8C%EC%B9%BC%EA%B5%AD%EC%88%98&entry=pll&from=map&fromNxList=true&fromPanelNum=2&timestamp=202601180310&locale=ko&svcName=map_pcv5&searchText=%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%93%B1%EC%B4%8C%EC%83%A4%EB%B8%8C%EC%B9%BC%EA%B5%AD%EC%88%98&searchType=place&c=15.00,0,0,0,dh",
     },
@@ -351,6 +351,16 @@ stores_20k = {
         "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230804_255%2F1691118198247lRahb_JPEG%2FIMG_E4130.JPG",
         "cat": "한식",
         "url": "https://map.naver.com/p/entry/place/1710111971?lng=126.9544994&lat=37.4789447&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202601181848&locale=ko&svcName=map_pcv5&entry=plt&searchType=place&c=15.00,0,0,0,dh",
+    },
+    "카츠쇼신": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241015_72%2F1728957033097Y7FAE_JPEG%2FIMG_9764.jpeg",
+        "cat": "돈가스",
+        "url": "https://map.naver.com/p/entry/place/1217588172?lng=126.9532949&lat=37.4797117&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202601181854&locale=ko&svcName=map_pcv5&entry=plt&searchType=place&c=15.00,0,0,0,dh",
+    },
+    "삼백돈 돈가츠": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20250604_148%2F1749025615766t9cdF_JPEG%2F%25B4%25EB%25C7%25A5%25C0%25CC%25B9%25CC%25C1%25F6_%25B3%25D7%25C0%25CC%25B9%25F6%25C7%25C3%25B7%25B9%25C0%25CC%25BD%25BA_%25BE%25C8%25BD%25C9.jpg",
+        "cat": "돈가스",
+        "url": "https://map.naver.com/p/entry/place/2028991155?lng=126.9552883&lat=37.478012&placePath=%2Fhome&entry=plt&searchType=place&c=15.00,0,0,0,dh",
     },
 }
 
