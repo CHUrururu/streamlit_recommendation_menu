@@ -99,7 +99,7 @@ stores_10k = {
         "url": "https://map.naver.com/p/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%98%EB%85%B8%EC%9D%B4%EB%B3%84/place/1354356843?placePath=?bk_query=%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%98%EB%85%B8%EC%9D%B4%EB%B3%84&entry=pll&from=nx&fromNxList=true&searchType=place&c=15.00,0,0,0,dh",
     },
     "밀밀밀 포케&샐러드": {
-        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20250207_265%2F1738933632982Ugrer_JPEG%2F1000037671.jpg",
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20250207_265%2F1738933632982Ugrer_JPEG%2F1000037671.jpg", # 메뉴 사진
         "cat": "샐러드",
         "url": "https://map.naver.com/p/entry/place/1716210969?lng=126.9526798&lat=37.4825041&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202601181743&locale=ko&svcName=map_pcv5&entry=plt&searchType=place&c=15.00,0,0,0,dh",
     },
@@ -127,6 +127,111 @@ stores_10k = {
         "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240812_30%2F17234446935191um1q_JPEG%2F1723444608937.jpg", # 가게 사진
         "cat": "한식",
         "url": "https://map.naver.com/p/entry/place/1593423527?lng=126.9568372&lat=37.4802476&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202601181753&locale=ko&svcName=map_pcv5&searchType=place&c=15.00,0,0,0,dh",
+    },
+    "유미타코": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20251211_47%2F1765432661069e6VHb_JPEG%2F%25C0%25AF%25B9%25CC%25C5%25B8%25C4%25DA_-308.jpg",
+        "cat": "타코",
+        "url": "http://map.naver.com/p/entry/place/2081662207?lng=126.9553579&lat=37.4782695&placePath=%2Fhome&entry=plt&searchType=place",
+    },
+    "복희": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241028_238%2F1730062643311ud40b_JPEG%2F3_%25BB%25F3%25C2%25F7%25B8%25B2_%25288%2529.JPG",
+        "cat": "분식",
+        "url": "https://map.naver.com/p/entry/place/1490746293?lng=126.9576552&lat=37.477928&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202601181758&locale=ko&svcName=map_pcv5&entry=plt&searchType=place&c=15.00,0,0,0,dh",
+    },
+    "줄포집": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240415_210%2F1713161750001IeP2u_JPEG%2F%25B4%25D9%25BF%25EE%25B7%25CE%25B5%25E5_%25287%2529.jpeg",
+        "cat": "한식",
+        "url": "https://map.naver.com/p/entry/place/1400713333?lng=126.9493425&lat=37.4822992&placePath=%2Fhome&entry=plt&searchType=place&c=15.00,0,0,0,dh",
+    },
+    "라이라이켄": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180510_261%2F1525936420890s1PiU_JPEG%2FSD0Qbzg7vHaiXHG_FUa89-z9.jpg",
+        "cat": "라멘",
+        "url": "http://map.naver.com/p/entry/place/1158830420?lng=126.9540185&lat=37.4821416&placePath=%2Fhome&entry=plt&searchType=place",
+    },
+    "칠리향도삭면": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230829_226%2F16932889069546RSCH_JPEG%2FKakaoTalk_20230829_145429863_02.jpg",
+        "cat": "중식",
+        "url": "https://map.naver.com/p/entry/place/1119381344?lng=126.9529214&lat=37.4806567&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202601181802&locale=ko&svcName=map_pcv5&entry=plt&searchType=place&c=15.00,0,0,0,dh",
+    },
+    "어부사시가": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190827_233%2F1566877550770bS2af_JPEG%2Fyye_95qZkmqAYBf6_CK96hVs.jpeg.jpg", # 가게 사진
+        "cat": "한식",
+        "url": "http://map.naver.com/p/entry/place/1039016287?lng=126.9542973&lat=37.479001&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202601181803&locale=ko&svcName=map_pcv5&entry=plt&searchType=place",
+    },
+    "봉이돈가스": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200803_255%2F1596459500399IRJPa_JPEG%2FgQ19_FJ4ogr8u80HUkUln2LM.jpeg.jpg", # 가게 사진
+        "cat": "돈가스",
+        "url": "https://map.naver.com/p/entry/place/38232858?lng=126.9449262&lat=37.4817826&placePath=/home?entry=ple&fromPanelNum=1&additionalHeight=76&timestamp=202601181804&locale=ko&svcName=map_pcv5&searchType=place&c=15.00,0,0,0,dh",
+    },
+    "완산정": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20151104_50%2F1446623427279IzDes_JPEG%2F167054568045740_0.jpg",
+        "cat": "한식",
+        "url": "https://map.naver.com/p/entry/place/11680002?lng=126.953644&lat=37.481683&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202601181808&locale=ko&svcName=map_pcv5&entry=plt&searchType=place&c=15.00,0,0,0,dh",
+    },
+    "춘리마라탕": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230917_16%2F1694920086493KG5sP_JPEG%2FIMG_2258.jpeg",
+        "cat": "마라탕",
+        "url": "https://map.naver.com/p/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%B6%98%EB%A6%AC%EB%A7%88%EB%9D%BC%ED%83%95/place/1616772251?placePath=/home?bk_query=%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%B6%98%EB%A6%AC%EB%A7%88%EB%9D%BC%ED%83%95&entry=pll&from=map&fromNxList=true&fromPanelNum=2&timestamp=202601181810&locale=ko&svcName=map_pcv5&searchText=%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%B6%98%EB%A6%AC%EB%A7%88%EB%9D%BC%ED%83%95&searchType=place&c=15.00,0,0,0,dh",
+    },
+    "나눔국수국수": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201217_227%2F1608171192338yPEB4_JPEG%2FgH7cyTpiiNxz4vD1MVqB1tCp.jpg",
+        "cat": "국수",
+        "url": "https://map.naver.com/p/entry/place/33284165?lng=126.951145&lat=37.478925&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202601181811&locale=ko&svcName=map_pcv5&entry=plt&searchType=place&c=15.00,0,0,0,dh",
+    },
+    "신의주찹쌀순대": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240613_95%2F1718242820870RholV_PNG%2F%25BD%25BA%25B8%25B6%25C6%25AE%25C7%25C3%25B7%25B9%25C0%25CC%25BD%25BA_%25BE%25F7%25C3%25BC%25C0%25CC%25B9%25CC%25C1%25F61.png",
+        "cat": "한식",
+        "url": "https://map.naver.com/p/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%8B%A0%EC%9D%98%EC%A3%BC%EC%B0%B9%EC%8C%80%EC%88%9C%EB%8C%80/place/33431474?placePath=?bk_query=%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%8B%A0%EC%9D%98%EC%A3%BC%EC%B0%B9%EC%8C%80%EC%88%9C%EB%8C%80&entry=pll&from=nx&fromNxList=true&searchType=place&c=15.00,0,0,0,dh",
+    },
+    "요리요리": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210527_50%2F1622098087896MLIFs_JPEG%2FdUSatkgzYCLCsEmR4aNadTdX.jpg", # 메뉴 사진
+        "cat": "한식",
+        "url": "https://map.naver.com/p/entry/place/32873135?lng=126.9528141&lat=37.4784385&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202601181814&locale=ko&svcName=map_pcv5&entry=plt&searchType=place&c=15.00,0,0,0,dh",
+    },
+    "황토방": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20250827_159%2F17562638365200h6TT_JPEG%2F20250827_120116.jpg", # 메뉴 사진
+        "cat": "한식",
+        "url": "http://map.naver.com/p/entry/place/31936395?lng=126.9528238&lat=37.4781333&placePath=%2Fhome&entry=plt&searchType=place",
+    },
+    "제주국수임당": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20250912_280%2F1757652481745moj8K_JPEG%2FIMG_2276.jpeg",
+        "cat": "한식",
+        "url": "https://map.naver.com/p/entry/place/1477861012?lng=126.9527774&lat=37.4782557&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202601181818&locale=ko&svcName=map_pcv5&entry=plt&searchType=place&c=15.00,0,0,0,dh",
+    },
+    "엄마손칼국수": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190618_284%2F1560866427930K4CO5_JPEG%2FWzZqP2D22TJUbG1bNoJq5kgE.jpg", # 가게 사진
+        "cat": "한식",
+        "url": "https://map.naver.com/p/entry/place/20856322?lng=126.9583017&lat=37.4778663&placePath=%2Fhome&entry=plt&searchType=place&c=15.00,0,0,0,dh",
+    },
+    "기절초풍왕순대": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200706_118%2F1594040337018Uus9B_JPEG%2FsbG7KFyUxl5r5KYESO2hkY9D.jpg", # 가게 사진
+        "cat": "한식",
+        "url": "https://map.naver.com/p/entry/place/18709584?lng=126.9584629&lat=37.4781103&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202601181824&locale=ko&svcName=map_pcv5&entry=plt&searchType=place&c=15.00,0,0,0,dh",
+    },
+    "달떡볶이": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201014_240%2F1602650925868FUVLK_JPEG%2Fp8v4q_CMXxtUS2gQtdP6QF2z.jpg",
+        "cat": "분식",
+        "url": "https://map.naver.com/p/entry/place/1817435234?lng=126.9547323&lat=37.4802623&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202601181825&locale=ko&svcName=map_pcv5&entry=plt&searchType=place&c=15.00,0,0,0,dh",
+    },
+    "클랩피자": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20250227_166%2F1740645313100Us464_JPEG%2F%25BF%25C3%25B9%25CC%25C6%25AE_%25B1%25EE%25B8%25A3%25BA%25B8%25B3%25AA%25B6%25F3_%25BF%25AC%25C3%25E2%25C4%25C6_hand%2528%25C0%25FA%25BF%25EB%25B7%25AE%2529.jpg",
+        "cat": "피자",
+        "url": "https://map.naver.com/p/entry/place/1577383966?lng=126.9573881&lat=37.4775191&placePath=%2Fhome&entry=plt&searchType=place&c=15.00,0,0,0,dh",
+    },
+    "육해장": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20250911_25%2F1757590172038QKrlC_JPEG%2F1201.jpg",
+        "cat": "한식",
+        "url": "https://map.naver.com/p/entry/place/2022542924?lng=126.9598999&lat=37.4787521&placePath=%2Fhome&entry=plt&searchType=place&c=15.00,0,0,0,dh",
+    },
+    "부림": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200101_36%2F1577886345286vrixv_JPEG%2FqCj3jtR-YiOF4Y9UfwIYaAxJ.jpg", # 가게 사진
+        "cat": "한식",
+        "url": "https://map.naver.com/p/entry/place/19877530?lng=126.9464721&lat=37.4813404&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202601181837&locale=ko&svcName=map_pcv5&entry=plt&searchType=place&c=15.00,0,0,0,dh",
+    },
+    "화우륵": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20250618_144%2F17502471277362OuYA_JPEG%2F%25BB%25E7%25C1%25F87.jpeg",
+        "cat": "한식",
+        "url": "https://map.naver.com/p/entry/place/1907798176?placePath=%252Fhome%253Fentry%253Dplt&searchType=place&lng=126.9543072&lat=37.4823469&c=15.00,0,0,0,dh",
     },
 }
 
@@ -196,6 +301,56 @@ stores_20k = {
         "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20250122_143%2F1737519659515gV6RS_JPEG%2FKakaoTalk_20250105_110435512_09.jpg",
         "cat": "태국음식",
         "url": "https://map.naver.com/p/entry/place/37929791?lng=126.951503&lat=37.4825157&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202601181744&locale=ko&svcName=map_pcv5&entry=plt&searchType=place&c=15.00,0,0,0,dh",
+    },
+    "나인온스버거": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20151104_123%2F1446623089057duSbk_JPEG%2F167054567467570_0.jpg",
+        "cat": "햄버거",
+        "url": "https://map.naver.com/p/entry/place/33315286?lng=126.9584021&lat=37.4772272&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202601181806&locale=ko&svcName=map_pcv5&entry=plt&searchType=place&c=15.00,0,0,0,dh",
+    },
+    "정가네 낙지마당": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230218_215%2F1676689201871IhElW_JPEG%2F%25B3%25AB%25C1%25F6%25BE%25C6%25B1%25B8%25C2%25F2.jpg",
+        "cat": "한식",
+        "url": "https://map.naver.com/p/entry/place/20059579?lng=126.9527559&lat=37.477551&placePath=%2Fhome&entry=plt&searchType=place&c=15.00,0,0,0,dh",
+    },
+    "레몬그라스타이": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240327_148%2F1711521427054rbyRu_JPEG%2F1000009062.jpg", # 가게 사진
+        "cat": "태국음식",
+        "url": "https://map.naver.com/p/entry/place/1842750579?lng=126.9590196&lat=37.4782925&placePath=%2Fhome&searchType=place&c=15.00,0,0,0,dh",
+    },
+    "순보보": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20250422_191%2F1745301061461rFwYK_JPEG%2F1000011655.jpg", # 메뉴 사진
+        "cat": "한식",
+        "url": "https://map.naver.com/p/entry/place/20729782?lng=126.9587594&lat=37.4774374&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202601181821&locale=ko&svcName=map_pcv5&entry=plt&searchType=place&c=15.00,0,0,0,dh",
+    },
+    "몬스터포": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240626_243%2F17193792249890llX3_JPEG%2FKakaoTalk_20240322_125458357.jpg",
+        "cat": "베트남음식",
+        "url": "https://map.naver.com/p/entry/place/1030657713?placePath=%252Fhome%253Fentry%253Dplt&searchType=place&lng=126.9566161&lat=37.4805475&c=15.00,0,0,0,dh",
+    },
+    "동경산책": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20251204_85%2F1764775138153w4MN3_JPEG%2F1000019274.jpg",
+        "cat": "일식",
+        "url": "http://map.naver.com/p/entry/place/1588568877?lng=126.9542&lat=37.4789029&placePath=%2Fhome&entry=plt&searchType=place",
+    },
+    "스테이크하우스 로아": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20250210_263%2F1739184331858mjgon_PNG%2F%25B4%25DC%25C3%25BC%25BC%25A6_%25B3%25D7%25C0%25CC%25B9%25F6.png",
+        "cat": "양식",
+        "url": "https://map.naver.com/p/entry/place/36084392?placePath=/home?entry=plt&from=map&fromPanelNum=1&additionalHeight=76&timestamp=202601181830&locale=ko&svcName=map_pcv5&searchType=place&lng=126.9589582&lat=37.4776631&c=15.00,0,0,0,dh",
+    },
+    "꼬꼬숯불닭갈비": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240625_284%2F1719281819505RYywk_JPEG%2FIMG_7146.JPG",
+        "cat": "한식",
+        "url": "https://map.naver.com/p/entry/place/1292300657?lng=126.9548011&lat=37.4801632&placePath=%2Fhome&entry=plt&searchType=place&c=15.00,0,0,0,dh",
+    },
+    "채선당": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211228_117%2F1640672035109D7lqS_JPEG%2FERT.jpg",
+        "cat": "샤브샤브",
+        "url": "https://map.naver.com/p/entry/place/18146831?lng=126.9540451&lat=37.4805072&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202601181843&locale=ko&svcName=map_pcv5&entry=plt&searchType=place&c=15.00,0,0,0,dh",
+    },
+    "보끔당": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230804_255%2F1691118198247lRahb_JPEG%2FIMG_E4130.JPG",
+        "cat": "한식",
+        "url": "https://map.naver.com/p/entry/place/1710111971?lng=126.9544994&lat=37.4789447&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202601181848&locale=ko&svcName=map_pcv5&entry=plt&searchType=place&c=15.00,0,0,0,dh",
     },
 }
 
