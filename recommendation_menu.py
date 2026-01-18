@@ -233,6 +233,31 @@ stores_10k = {
         "cat": "한식",
         "url": "https://map.naver.com/p/entry/place/1907798176?placePath=%252Fhome%253Fentry%253Dplt&searchType=place&lng=126.9543072&lat=37.4823469&c=15.00,0,0,0,dh",
     },
+    "늘콩": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211114_105%2F1636889026973mhzbH_JPEG%2F20211114_202113.jpg",
+        "cat": "한식",
+        "url": "https://map.naver.com/p/entry/place/1591908912?placePath=%252Fhome%253Fentry%253Dplt&searchType=place&lng=126.9536312&lat=37.4830320&c=15.00,0,0,0,dh",
+    },
+    "멘지": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20250626_190%2F1750909128281LGWVc_JPEG%2F8.jpg",
+        "cat": "라멘",
+        "url": "https://map.naver.com/p/entry/place/1545899272?lng=126.9559642&lat=37.4784345&placePath=%2Fhome&entry=plt&searchType=place&c=15.00,0,0,0,dh",
+    },
+    "도원경": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240809_145%2F17232011507912TkXF_JPEG%2F4.JPG",
+        "cat": "중식",
+        "url": "https://map.naver.com/p/entry/place/1010496761?placePath=/home?entry=plt&from=map&fromPanelNum=1&additionalHeight=76&timestamp=202601181906&locale=ko&svcName=map_pcv5&searchType=place&lng=126.9448298&lat=37.4831908&c=15.00,0,0,0,dh",
+    },
+    "낙원샌드위치": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230602_226%2F1685637977235iF3P0_JPEG%2F5.jpg",
+        "cat": "샌드위치\n포장·배달",
+        "url": "https://map.naver.com/p/entry/place/1131210397?lng=126.9523419&lat=37.4826681&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202601181910&locale=ko&svcName=map_pcv5&entry=plt&searchType=place&c=15.00,0,0,0,dh",
+    },
+    "올리스테이블": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20250117_43%2F1737101581236NO16z_JPEG%2F1736325140461.jpg", # 로고 사진
+        "cat": "샌드위치\n포장·배달",
+        "url": "https://map.naver.com/p/entry/place/1339681998?lng=126.9530456&lat=37.4826855&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202601181911&locale=ko&svcName=map_pcv5&entry=plt&searchType=place&c=15.00,0,0,0,dh",
+    },
 }
 
 # 20,000원
@@ -361,6 +386,31 @@ stores_20k = {
         "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20250604_148%2F1749025615766t9cdF_JPEG%2F%25B4%25EB%25C7%25A5%25C0%25CC%25B9%25CC%25C1%25F6_%25B3%25D7%25C0%25CC%25B9%25F6%25C7%25C3%25B7%25B9%25C0%25CC%25BD%25BA_%25BE%25C8%25BD%25C9.jpg",
         "cat": "돈가스",
         "url": "https://map.naver.com/p/entry/place/2028991155?lng=126.9552883&lat=37.478012&placePath=%2Fhome&entry=plt&searchType=place&c=15.00,0,0,0,dh",
+    },
+    "스시공방": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201115_226%2F1605452329325Lm0xK_JPEG%2FnLC6Q_6KyHGcLLEQpDDUwhzc.jpg",
+        "cat": "초밥",
+        "url": "https://map.naver.com/p/entry/place/1077343690?lng=126.9567514&lat=37.4803783&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202601181857&locale=ko&svcName=map_pcv5&entry=plt&searchType=place&c=15.00,0,0,0,dh",
+    },
+    "후추스시": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_53%2F1732763137953CqyDe_JPEG%2FIMG_2642.jpeg",
+        "cat": "초밥",
+        "url": "https://map.naver.com/p/entry/place/1070317367?lng=126.9573162&lat=37.4781977&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202601181858&locale=ko&svcName=map_pcv5&entry=plt&searchType=place&c=15.00,0,0,0,dh",
+    },
+    "아란": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241107_48%2F173098923274011YO8_JPEG%2F1000005372.jpg",
+        "cat": "양식",
+        "url": "https://map.naver.com/p/entry/place/1708386763?lng=126.9446773&lat=37.4832019&placePath=%2Fhome&entry=plt&searchType=place&c=15.00,0,0,0,dh",
+    },
+    "이상범스시": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170730_1%2F1501344439601fpxxn_JPEG%2F186680413739072_4.jpeg",
+        "cat": "초밥",
+        "url": "https://map.naver.com/p/entry/place/875574854?lng=126.9453267&lat=37.4831312&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202601181904&locale=ko&svcName=map_pcv5&searchType=place&c=15.00,0,0,0,dh",
+    },
+    "도원경": {
+        "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240809_145%2F17232011507912TkXF_JPEG%2F4.JPG",
+        "cat": "중식",
+        "url": "https://map.naver.com/p/entry/place/1010496761?placePath=/home?entry=plt&from=map&fromPanelNum=1&additionalHeight=76&timestamp=202601181906&locale=ko&svcName=map_pcv5&searchType=place&lng=126.9448298&lat=37.4831908&c=15.00,0,0,0,dh",
     },
 }
 
